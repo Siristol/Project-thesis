@@ -1,0 +1,6 @@
+venv_annarchy
+cifar-10-batches-py
+annarchy
+_pycache_
+*.keras
+*.h5
