@@ -9,3 +9,6 @@ SNN_toolbox_INI.py
 SNN_toolbox_brian2.py
 *.Identifier
 keras_model.py
+ANNarchyCIFAR_v10.ipynb
+ANNarchyCIFAR_v11.ipynb
+ANNarchyCIFAR_v18.ipynb
