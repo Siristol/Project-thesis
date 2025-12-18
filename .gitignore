@@ -4,3 +4,8 @@ annarchy
 _pycache_
 *.keras
 *.h5
+ResNet.py
+SNN_toolbox_INI.py
+SNN_toolbox_brian2.py
+*.Identifier
+keras_model.py
